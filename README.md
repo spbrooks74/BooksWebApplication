@@ -8,7 +8,6 @@ Installed the flask-restful library.
 Installed the flask-jwt-extended library.
 
 
-![image](https://github.com/spbrooks74/BooksWebApplication/assets/155562862/33ee1df3-ed41-484d-b957-9d5ce7b853b2)
 ![image](https://github.com/spbrooks74/BooksWebApplication/assets/155562862/2632c427-910c-413f-8121-7cea78974ede)
 
 
